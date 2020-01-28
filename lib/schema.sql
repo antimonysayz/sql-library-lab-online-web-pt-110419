@@ -8,4 +8,4 @@ create table series (
 create table subgenres(
   id INTEGER PRIMARY KEY,
   name TEXT
-)
+);
