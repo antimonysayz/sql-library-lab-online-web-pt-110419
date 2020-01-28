@@ -2,6 +2,7 @@ update characters
 set species = 'Martian'
 where species = 'cylon';
 
-select books.title, books.year
+select title, year
 from books
-order by books.year ASC;
+where series_id = 1
+order by year;
