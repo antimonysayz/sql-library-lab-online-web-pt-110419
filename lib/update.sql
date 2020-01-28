@@ -1,3 +1,3 @@
 update characters
-set characters.species = 'Martian'
+set species = 'Martian'
 where characters.species = 'cylon';
