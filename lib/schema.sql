@@ -24,5 +24,6 @@ create table books (
 
 create table characters (
   id INTEGER PRIMARY KEY,
-  name TEXT
+  name TEXT,
+  species TEXT
 )
