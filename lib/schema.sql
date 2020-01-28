@@ -28,8 +28,8 @@ create table characters (
   species TEXT,
   motto TEXT,
   author_id INTEGER
-)
+);
 
 create table character_books (
   id INTEGER PRIMARY KEY
-)
+);
