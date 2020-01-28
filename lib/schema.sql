@@ -18,4 +18,4 @@ create table authors (
 create table books (
   id INTEGER PRIMARY KEY,
   title TEXT
-)
+);
