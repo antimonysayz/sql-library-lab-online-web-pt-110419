@@ -14,3 +14,8 @@ create table authors (
   id INTEGER PRIMARY KEY,
   name TEXT
 );
+
+create table books (
+  id INTEGER PRIMARY KEY,
+  title TEXT
+)
