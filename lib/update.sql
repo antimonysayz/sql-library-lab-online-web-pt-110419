@@ -1,3 +1,3 @@
 update characters
-set characters.name = 'Martian'
-where characters.id = MAX;
+set characters.species = 'Martian'
+where characters.species = 'cylon';
