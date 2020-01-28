@@ -28,7 +28,7 @@ create table characters (
   species TEXT,
   motto TEXT,
   author_id INTEGER,
-  series_id
+  series_id INTEGER
 );
 
 create table character_books (
